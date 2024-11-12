@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 4000px;
-  min-width: 2667;
+  min-width: 2667px;
   background: url(../img/michael-nolting.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
