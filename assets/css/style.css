@@ -480,6 +480,8 @@ section {
   padding: 80px 0;
 }
 #about .about-container .background {
+  width: 400px;
+  height: 600px;
   background: url(../img/michael-nolting.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
