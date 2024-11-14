@@ -482,8 +482,8 @@ section {
 #about .about-container .background {
   width: 400px;
   height: auto;
-  background: url(../img/michael-nolting.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   object-fit:contain;
+  background: url(../img/michael-nolting.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
